@@ -23,7 +23,7 @@ This api is used to search by user name in the list page
 
 This is used to place an order. It will add the current order of burgers to the existing list.
 
-## Steps to run
+## Steps to run the project
 
 `npm start`
 
